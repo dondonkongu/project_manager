@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ProjectManager" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimaryDark">@color/white</item>
+    </style>
+
+    <style name="Theme.ProjectManager" parent="Base.Theme.ProjectManager" />
+</resources>
